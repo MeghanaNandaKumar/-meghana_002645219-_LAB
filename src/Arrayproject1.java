@@ -13,7 +13,7 @@ public class Arrayproject1 {
        
         
        
-        int[] arraylist1={17,2,4,23,6};
+        int[] arraylist1={17,2,4,23,16};
         for( int i=0; i< arraylist1.length; i++){
             if(i%2==0)
             {

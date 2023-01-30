@@ -11,7 +11,7 @@ import Model.Product;
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
 /**
- *
+ ****
  * @author megha
  */
 public class EditJPanel extends javax.swing.JPanel {

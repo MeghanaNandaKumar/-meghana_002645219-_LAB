@@ -9,7 +9,7 @@ import Model.Customer;
 import Model.DeliveryPackage;
 import Model.Product;
 /**
- *
+ ****
  * @author megha
  */
 public class ViewJPanel extends javax.swing.JPanel {
